@@ -1,0 +1,8 @@
+pip install SpeechRecognition
+pip install python-dotenv
+pip install openai
+pip install pyttsx3
+pip install SpeechRecognition
+pip install customtkinter
+pip install threading
+pip install pyaudio
