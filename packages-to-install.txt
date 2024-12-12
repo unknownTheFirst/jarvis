@@ -6,3 +6,13 @@ pip install SpeechRecognition
 pip install customtkinter
 pip install threading
 pip install pyaudio
+
+sk
+#
+-proj-fLt0vks0FyCqKwJCBWfW9gFN0CmWvrm1U
+####
+mXS4unan0Fykn7PX58DEU7bdTw19XGr73tm4T1jheT3B
+****
+lbkFJPDR4K3EnUtR5heiLLcAQPscG75mMCCHv2P9NA4MV
+!!!!!!!
+90Nr7aHNUMYdJMduK_YzYmhsrUaCFvXTwA"
